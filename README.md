@@ -1,7 +1,8 @@
 # Summry AI
 Summry AI is a powerful tool that transforms your video or audio content into a blog post in seconds, powered by cutting-edge AI technology. It’s designed to streamline your content creation process and generate high-quality blog posts effortlessly.
 
-![thumbnails](https://github.com/user-attachments/assets/04dccf47-316b-46b7-b69b-e07482a683ba)
+<img width="1434" alt="Screenshot 2024-11-08 at 11 35 06 PM" src="https://github.com/user-attachments/assets/0cc3e45d-e408-495f-8a3c-7107c5e8cd7b">
+
 
 ## Features
 
@@ -109,4 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ---
 
-Built with ❤️ by [Anayat](https://anayat.xyz)
+Built with ❤️ by [Ram & Co.](https://ramakm.netlify.app/)
